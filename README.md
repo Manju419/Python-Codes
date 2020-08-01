@@ -1,5 +1,5 @@
 # Python-Codes
-In this Chapter, We learn Python programming Codes  with Clear Explanations. 
+Hellooo Philomath.... I mean to say that is you aspiring for knowledge... Here I feel very much Pleasurised to share the python programming skills with codes being clearly analysed.. 
 
 If the Code is Not opening Just click in this link:https://nbviewer.jupyter.org/
 
